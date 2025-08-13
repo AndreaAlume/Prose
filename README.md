@@ -7,17 +7,30 @@ Prose è un editor di testo moderno che sfrutta le potenti tecnologie web per of
 
 Funzionalità scelte e mirate per non essere inutili o invasive, disegnando una linea minimale che pone il focus sulla scrittura eliminando le distrazioni e incrementando la produttività.
 
-### Obiettivi e vantaggi 
-non sostituire altri text editor noti, come Notion o Obsidian, ma proporsi come semplice note-manager per attività quotidiane o semplici progetti. I vantaggi risiedono nelle caratteristiche progettate appositamente per semplificare il flusso di lavoro ed evitare distrazioni, mantenendo l’attenzione dell’utente focalizzata sul testo.
+### Obiettivi e vantaggi
+Lo scopo che Prose si è prefissato nel mercato degli editor di testo non è quello di sostituire strumenti noti come Notion o Obsidian, ma di proporsi come un note manager più minimal, valorizzando la versatilità come elemento distintivo e fonte di creatività.
 
-- **Target di riferimento**
-  - ***ricercatori*** per raccolta organizzata di informazioni 
-  - ***studenti*** per ordinare il loro materiale di studio personale 
-  - ***scrittori*** che hanno bisogno solo di una formattazione visiva per semplificare il loro lavoro 
-  - ***divulgatori scientifici*** per scrivere articoli ed eventualmente postarli sui loro siti blog.
-- **Caratteristiche principali** che distingono Prose da altri editor: focus sulla scrittura, no distrazioni con funzionalità dispersive.
-  - ***Caratteristiche progettuali***: performance -> consumi ridotti -> più tempo per scrivere | CI/CD per aggiornamenti futuri | not-only-markdown, per cui più personalizzazione | offline | sincronizzazione ambiente di lavoro |
-  - ***Caratteristiche stilistiche***: semplicità e minimalismo come parole chiave | organizzazione semplificata per piccoli progetti | grafica moderna e intuitiva |
+I vantaggi si concretizzano nelle specifiche caratteristiche progettuali, studiate per ottimizzare il flusso di lavoro e ridurre al minimo le distrazioni, garantendo che l’attenzione dell’utente rimanga costantemente focalizzata sul contenuto testuale.
+
+**Target di riferimento**
+- ***ricercatori*** per raccolta organizzata di informazioni 
+- ***studenti*** per ordinare il loro materiale di studio personale 
+- ***scrittori*** che hanno bisogno solo di una formattazione visiva per semplificare il loro lavoro 
+- ***divulgatori scientifici*** per scrivere articoli ed eventualmente postarli sui loro siti blog.
+
+### Caratteristiche principali
+Come già anticipato, ciò che distinge Prose da altri editor sono le funzionalità sono l'anima concentrata per migliorare il flusso di scrittura senza distrazioni con funzionalità dispersive.
+
+- **Caratteristiche progettuali**: 
+  - In questa fase iniziale di sviluppo voglio concentrarmi e dedicare parte del lavoro per ottimizzare le **performance** per garantire fluidità e in simbiosi **ridurre al minimo il consumo di risorse**.
+  - Creare una **struttura indipendente** a sè stante che permetta la CI/CD.
+  - Il software si propone come text editor **personalizzabile**, ma con dei **layout già preinstallati** come callout, quote e così via.
+  - Il software prevederà la possibilità di essere utilizzato anche **offline**.
+  - Seppur l'utente avrà la possibilità di utilizzare il software non avendo a disposizione una rete voglio comunque integrare un **servizio cloud storage** su cui verranno caricati cartelle e file.
+  - Integrazione dell'IA non invasiva, ma indispensabile visto il futuro che si proietta dell'informatica.
+- **Caratteristiche stilistiche**: 
+  - **semplicità** e **minimalismo** saranno le parole chiave che guideranno il designing dell'applicazione, ma senza rinunciare ad una grafica moderna e accattivante e prsonalizzazione dell'utente.
+  - strutturata per essere **intuitiva** e fornire subito un'ordine e un'organizzazione a colpo d'ochhio.
 
 ### Filosofia del progetto e note importanti sugli impegni economici del progetto
 
